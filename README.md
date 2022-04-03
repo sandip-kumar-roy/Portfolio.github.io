@@ -33,11 +33,11 @@ Steps to run the code
 
 ****Enjoy****
 **SCREENSHOTS**
+**HOVERING EFFECTS**
+![hovering effect ](https://user-images.githubusercontent.com/101457128/161435550-dbd79f3b-bc08-4cf7-bb04-cdbf5e43804c.png)
 
 **HOME SECTION**
 ![home section](https://user-images.githubusercontent.com/101457128/161435467-20199f8d-5186-48da-b6ae-dcff5ffaaadd.png)
-
-
 
 
 **ABOUT SECTION**
@@ -54,4 +54,10 @@ Steps to run the code
 ![about part6](https://user-images.githubusercontent.com/101457128/161435384-40192f91-3a6c-4bed-af53-0a2b0e17ed71.png)
 
 ![about part7](https://user-images.githubusercontent.com/101457128/161435395-0651c20f-ba16-4322-aba1-06f31481d2c0.png)
+
+**PROJECT SECTION**
+![project section1](https://user-images.githubusercontent.com/101457128/161435525-fb5404cc-a5df-4045-9ac9-635273bdef40.png)
+
+
+
 
