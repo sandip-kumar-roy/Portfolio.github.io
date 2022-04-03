@@ -32,3 +32,22 @@ Steps to run the code
 7) click preview with live Server or preview side by side 
 
 ****Enjoy****
+
+
+
+
+**ABOUT SECTION**
+![about part1](https://user-images.githubusercontent.com/101457128/161435325-18f119e8-1c33-4652-b2cb-85daf693861c.png)
+
+![aboout part2](https://user-images.githubusercontent.com/101457128/161435345-3419458f-8d72-47fc-a7ed-3f022cee78a8.png)
+
+![about part3](https://user-images.githubusercontent.com/101457128/161435354-23e0b217-fb4e-4435-83f2-95ee6ee672c8.png)
+
+![about part4](https://user-images.githubusercontent.com/101457128/161435362-39c5c25d-ff2d-4a0b-8880-aab9a02e566d.png)
+
+![about part5](https://user-images.githubusercontent.com/101457128/161435376-78381671-f4af-4acc-8822-8818eb2a4b38.png)
+
+![about part6](https://user-images.githubusercontent.com/101457128/161435384-40192f91-3a6c-4bed-af53-0a2b0e17ed71.png)
+
+![about part7](https://user-images.githubusercontent.com/101457128/161435395-0651c20f-ba16-4322-aba1-06f31481d2c0.png)
+
