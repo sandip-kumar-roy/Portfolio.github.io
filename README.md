@@ -32,6 +32,10 @@ Steps to run the code
 7) click preview with live Server or preview side by side 
 
 ****Enjoy****
+**SCREENSHOTS**
+
+**HOME SECTION**
+![home section](https://user-images.githubusercontent.com/101457128/161435467-20199f8d-5186-48da-b6ae-dcff5ffaaadd.png)
 
 
 
