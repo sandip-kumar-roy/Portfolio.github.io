@@ -15,9 +15,9 @@ Steps to run the code
 
 3) install some VS Code Extension 
 
-** Live Preview, Prettier, Html Css Snippet,
-   Live Server,Intellisense for css class names in html
-   Javascript (ES6) code snippet,auto complete tag 
+** Live Preview, Prettier, Html Css Snippet ,
+   Live Server, Intellisense for css class names in html
+   , Javascript (ES6) code snippet, auto complete tag 
 
 
 3) Go to File on the navigation menu of VS code
