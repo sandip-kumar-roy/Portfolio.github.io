@@ -6,18 +6,26 @@ Only For Desktop Version
 
 **LIVE LINK**
 
- https://sandip-kumar-roy.github.io/Portfolio.github.io/
+      https://sandip-kumar-roy.github.io/Portfolio.github.io/
+
 
 Steps to run the code
+-----------------------
+
 1) Copy this folder on a single folder on your desktop/laptop
 
 2) install VScode 
 
 3) install some VS Code Extension 
+    
 
-** Live Preview, Prettier, Html Css Snippet ,
-   Live Server, Intellisense for css class names in html
-   , Javascript (ES6) code snippet, auto complete tag 
+        *Live Preview, 
+        *Prettier, 
+        *Html Css Snippet ,
+        *Live Server, 
+        *Intellisense for css class names in html
+        *Javascript (ES6) code snippet, 
+        *auto complete tag 
 
 
 3) Go to File on the navigation menu of VS code
