@@ -1,8 +1,17 @@
 # Portfolio.github.io
 This is a portfolio website created and designed to keep track of all personal details in a cool way   
 Steps to run on your computer
+
+
 **NOTE** 
-Only For Desktop Version
+
+Only For Desktop Version 
+
+
+**Mobile**
+
+View the website in landscape mode
+
 
 **LIVE LINK**
 
