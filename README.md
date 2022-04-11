@@ -5,12 +5,15 @@ Steps to run on your computer
 
 **NOTE** 
 
-Only For Desktop Version 
+**Desktop/Laptop**
+
+Cool view For Desktop Version 
 
 
 **Mobile**
 
-View the website in landscape mode
+Not for Mobile View but **can see the 
+website in landscape mode/ Rotate your screen**
 
 
 **LIVE LINK**
