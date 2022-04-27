@@ -722,7 +722,44 @@ body{
 .project-card:hover .project-content{
     opacity: 0.5;
 }
-
+@media (max-width:700px) {
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .Link-group{
+        display: flex;
+        
+        /* flex-direction: column; */
+    }
+    .Link a{
+        font-size: 1em;
+        padding: 0.6em;
+    }
+    .home-content .text .text-one {
+        padding-top: 2em;
+        font-size: 1em;
+    }
+    .text-two{
+        font-size: 1em;
+    }
+    .project-section{
+        padding: 0;
+    }
+    .project-content{
+        margin: 0;
+        padding: 0;
+    }
+    .project-title{
+        padding: 0;
+        
+    }
+    
+    .home-img{
+        display: none;
+    }
+    
+}
 
 
 
